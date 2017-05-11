@@ -42,9 +42,6 @@ dat=list()
 # }
 # lapply(dat, dim)
 # colnames(dat[[1]])
-
-
-# # gosh, it would be nice if these worked!
 # x = fread("https://www.fhwa.dot.gov/bridge/nbi/2016allstatesallrecsdel.zip")
 # x = read_csv("https://www.fhwa.dot.gov/bridge/nbi/2016allstatesallrecsdel.zip")
 
